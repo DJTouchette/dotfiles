@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/damientouchette/Documents/Greenhouse'
+let g:netrw_dirhist_2='/Users/damientouchette/Documents/Greenhouse/olio/rentolio'
+let g:netrw_dirhist_3='/Users/damientouchette/Documents/Greenhouse/olio'
+let g:netrw_dirhist_4='/Users/damientouchette/Documents/Greenhouse/olio/rentolio'
+let g:netrw_dirhist_5='/Users/damientouchette/Documents/Greenhouse/olio'
+let g:netrw_dirhist_6='/Users/damientouchette/Documents/Greenhouse/olio/rentolio/web-app'
+let g:netrw_dirhist_7='/Users/damientouchette/Documents/Greenhouse/olio/rentolio'
